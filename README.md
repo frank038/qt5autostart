@@ -17,3 +17,5 @@ How to execue:
 The option in the config file:
 - LOG_TO_FILE : the program can log all the tasks it made, programs executed from system and use folders, programs skipped, etc.;
 - DEST_LOG : where to write the log.
+
+![My image](https://github.com/frank038/qt5autostart/blob/main/screenshot1.png)
