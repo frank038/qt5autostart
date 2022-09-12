@@ -14,6 +14,8 @@ How to execue:
 - python3 qt5autostart.py -gui (or ./qt5autostart.py -gui) to launch the program in gui mode to manage the applications to be started automatically;
 - python3 qt5autostart.py (or ./qt5autostart.py) to launch this program in console mode: in this case the programs in the autostart folders will be executed, if not disabled.
 
+Put the mouse over an item to get its description/comment and executable. In gui mode, this program cannot start or stop any programs.
+
 The option in the config file:
 - LOG_TO_FILE : the program can log all the tasks it made, programs executed from system and use folders, programs skipped, etc.;
 - DEST_LOG : where to write the log.
