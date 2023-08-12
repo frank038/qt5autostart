@@ -11,7 +11,7 @@ With this program, autostart applications/desktop files found in the autostart f
 
 Usage:
 - python3 qt5autostart_gui.py (or ./qt5autostart_gui.py) to launch the program for managing the applications to be started automatically;
-- python3 qt5autostart_tui.py (or ./qt5autostart_tui.py) to launch this program in console mode: in this case the programs in the autostart folders will be executed, if not disabled.
+- python3 qt5autostart_tui.py (or ./qt5autostart_tui.py) to launch the application for executing the programs in the autostart folders, if the case.
 
 Just click in the checkboxes to unselect/select the items. Modifications are apply immediately. Instead, the remove button will show a confirmation dialog first.
 
